@@ -1,6 +1,8 @@
 # Oshop
 
-This is the codebase from an Angular class on Udemy: https://www.udemy.com/course/the-complete-angular-master-class
+This is the codebase from an Angular course on Udemy: https://www.udemy.com/course/the-complete-angular-master-class
+
+The course is outdated and became impossible to follow after a certain point.  However, I have deployed the current version of my code base to: https://oshop-bcc1a.web.app
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
 
