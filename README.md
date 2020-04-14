@@ -1,5 +1,7 @@
 # Oshop
 
+This is the codebase from an Angular class on Udemy: https://www.udemy.com/course/the-complete-angular-master-class
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
 
 ## Development server
